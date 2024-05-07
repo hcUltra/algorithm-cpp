@@ -5,7 +5,7 @@
 		<Option title="algorithm_cpp"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cpp001_select_bubble_insert\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug"/>
@@ -85,6 +85,9 @@
 		</Unit>
 		<Unit filename="/Users/yinger/Desktop/algorithm-cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/yinger/Desktop/algorithm-cpp/cpp001_select_bubble_insert/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cpp001_select_bubble_insert\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>

@@ -6,6 +6,10 @@
 			[
 				{
 					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
@@ -17,6 +21,17 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "cpp001_select_bubble_insert",
+					"jsonFile" : "directory-cpp001_select_bubble_insert-Debug-f20380c79207087c026f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "cpp001_select_bubble_insert"
 				}
 			],
 			"name" : "Debug",
@@ -25,7 +40,8 @@
 				{
 					"directoryIndexes" : 
 					[
-						0
+						0,
+						1
 					],
 					"name" : "algorithm_cpp",
 					"targetIndexes" : 

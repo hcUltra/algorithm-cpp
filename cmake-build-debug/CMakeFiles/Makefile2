@@ -64,15 +64,32 @@ CMAKE_BINARY_DIR = /Users/yinger/Desktop/algorithm-cpp/cmake-build-debug
 
 # The main recursive "all" target.
 all: CMakeFiles/algorithm_cpp.dir/all
+all: cpp001_select_bubble_insert/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall:
+preinstall: cpp001_select_bubble_insert/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/algorithm_cpp.dir/clean
+clean: cpp001_select_bubble_insert/clean
 .PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory cpp001_select_bubble_insert
+
+# Recursive "all" directory target.
+cpp001_select_bubble_insert/all:
+.PHONY : cpp001_select_bubble_insert/all
+
+# Recursive "preinstall" directory target.
+cpp001_select_bubble_insert/preinstall:
+.PHONY : cpp001_select_bubble_insert/preinstall
+
+# Recursive "clean" directory target.
+cpp001_select_bubble_insert/clean:
+.PHONY : cpp001_select_bubble_insert/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/algorithm_cpp.dir
