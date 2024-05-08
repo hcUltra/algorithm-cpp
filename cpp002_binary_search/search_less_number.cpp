@@ -7,7 +7,7 @@ using namespace std;
  * */
 int BinarySearch(int arr[], int length, int target)
 {
-    int l = 0, r = length - 1, mid = 0, ans = -1;
+    int l = 0, r = length - 1, mid, ans = -1;
     while(l <= r)
     {
         mid = l + ((r - l) >> 1);
