@@ -165,6 +165,9 @@ CMAKE_RANLIB:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/Xcod
 //Path to a program.
 CMAKE_READELF:FILEPATH=CMAKE_READELF-NOTFOUND
 
+//No help, variable specified on the command line.
+CMAKE_RUNTIME_OUTPUT_DIRECTORY:UNINITIALIZED=/Users/yinger/Desktop/algorithm-cpp/out/
+
 //Flags used by the linker during the creation of shared libraries
 // during all build types.
 CMAKE_SHARED_LINKER_FLAGS:STRING=

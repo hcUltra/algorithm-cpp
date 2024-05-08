@@ -954,6 +954,18 @@
 			"value" : "/Volumes/CLion/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28"
 		},
 		{
+			"name" : "CMAKE_RUNTIME_OUTPUT_DIRECTORY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "/Users/yinger/Desktop/algorithm-cpp/out/"
+		},
+		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
 			"properties" : 
 			[

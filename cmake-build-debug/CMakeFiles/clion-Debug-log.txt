@@ -1,4 +1,4 @@
-/Volumes/CLion/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/yinger/Desktop/algorithm-cpp -B /Users/yinger/Desktop/algorithm-cpp/cmake-build-debug
+/Volumes/CLion/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/yinger/Desktop/algorithm-cpp/out/ -G "CodeBlocks - Unix Makefiles" -S /Users/yinger/Desktop/algorithm-cpp -B /Users/yinger/Desktop/algorithm-cpp/cmake-build-debug
 CMake Deprecation Warning:
   Support for "Extra Generators" like
 

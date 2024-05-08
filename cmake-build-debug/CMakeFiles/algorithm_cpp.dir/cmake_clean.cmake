@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
+  "/Users/yinger/Desktop/algorithm-cpp/out/algorithm_cpp"
+  "/Users/yinger/Desktop/algorithm-cpp/out/algorithm_cpp.pdb"
   "CMakeFiles/algorithm_cpp.dir/main.cpp.o"
   "CMakeFiles/algorithm_cpp.dir/main.cpp.o.d"
-  "algorithm_cpp"
-  "algorithm_cpp.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

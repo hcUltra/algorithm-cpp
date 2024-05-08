@@ -18,8 +18,8 @@
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm_cpp">
-				<Option output="/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/algorithm_cpp" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug"/>
+				<Option output="/Users/yinger/Desktop/algorithm-cpp/out/algorithm_cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinger/Desktop/algorithm-cpp/out/"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -39,8 +39,8 @@
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm_cpp/fast">
-				<Option output="/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/algorithm_cpp" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug"/>
+				<Option output="/Users/yinger/Desktop/algorithm-cpp/out/algorithm_cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinger/Desktop/algorithm-cpp/out/"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
