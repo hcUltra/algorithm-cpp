@@ -63,59 +63,16 @@ CMAKE_BINARY_DIR = /Users/yinger/Desktop/algorithm-cpp/cmake-build-debug
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/algorithm_cpp.dir/all
-all: cpp001_select_bubble_insert/all
+all:
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall: cpp001_select_bubble_insert/preinstall
+preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/algorithm_cpp.dir/clean
-clean: cpp001_select_bubble_insert/clean
+clean:
 .PHONY : clean
-
-#=============================================================================
-# Directory level rules for directory cpp001_select_bubble_insert
-
-# Recursive "all" directory target.
-cpp001_select_bubble_insert/all:
-.PHONY : cpp001_select_bubble_insert/all
-
-# Recursive "preinstall" directory target.
-cpp001_select_bubble_insert/preinstall:
-.PHONY : cpp001_select_bubble_insert/preinstall
-
-# Recursive "clean" directory target.
-cpp001_select_bubble_insert/clean:
-.PHONY : cpp001_select_bubble_insert/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/algorithm_cpp.dir
-
-# All Build rule for target.
-CMakeFiles/algorithm_cpp.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target algorithm_cpp"
-.PHONY : CMakeFiles/algorithm_cpp.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/algorithm_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/algorithm_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/algorithm_cpp.dir/rule
-
-# Convenience name for target.
-algorithm_cpp: CMakeFiles/algorithm_cpp.dir/rule
-.PHONY : algorithm_cpp
-
-# clean rule for target.
-CMakeFiles/algorithm_cpp.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/clean
-.PHONY : CMakeFiles/algorithm_cpp.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

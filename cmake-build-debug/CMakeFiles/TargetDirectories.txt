@@ -1,5 +1,2 @@
-/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/CMakeFiles/algorithm_cpp.dir
 /Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/cpp001_select_bubble_insert/CMakeFiles/edit_cache.dir
-/Users/yinger/Desktop/algorithm-cpp/cmake-build-debug/cpp001_select_bubble_insert/CMakeFiles/rebuild_cache.dir

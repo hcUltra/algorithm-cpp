@@ -160,9 +160,6 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/Volumes/CLion/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
-		},
-		{
-			"path" : "cpp001_select_bubble_insert/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

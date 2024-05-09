@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/yinger/Desktop/algorithm-cpp/cpp4_search_number.cpp" "CMakeFiles/algorithm_cpp.dir/cpp4_search_number.cpp.o" "gcc" "CMakeFiles/algorithm_cpp.dir/cpp4_search_number.cpp.o.d"
   "/Users/yinger/Desktop/algorithm-cpp/main.cpp" "CMakeFiles/algorithm_cpp.dir/main.cpp.o" "gcc" "CMakeFiles/algorithm_cpp.dir/main.cpp.o.d"
   )
 
