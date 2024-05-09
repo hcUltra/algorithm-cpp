@@ -6,9 +6,17 @@ struct ListNode
 {
     int val;
     ListNode* next;
-    ListNode() : val(0), next(nullptr) {}/*初始化列表*/
-    ListNode(int x) : val(x), next(nullptr){}
-    ListNode(int x, ListNode* next) : val(x), next(next){}
+
+    ListNode() : val(0), next(nullptr)
+    {
+    }/*初始化列表*/
+    ListNode(int x) : val(x), next(nullptr)
+    {
+    }
+
+    ListNode(int x, ListNode* next) : val(x), next(next)
+    {
+    }
 };
 
 // 划分链表 <= x 放左侧 > x 的放右侧
