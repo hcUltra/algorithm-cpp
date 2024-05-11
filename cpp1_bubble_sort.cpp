@@ -1,3 +1,7 @@
+/*
+ * @description 冒泡排序
+ * @author zhc
+ */
 #include<iostream>
 
 using namespace std;

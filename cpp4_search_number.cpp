@@ -1,10 +1,11 @@
+/*
+ * @description 在有序数组中，找到 target 出现的位置并返回，如果target没有出现则返回-1
+ * @author zhc
+ */
 #include <iostream>
 
 using namespace std;
 
-/*
- * 在有序数组中，找到 target 出现的位置并返回，如果target没有出现则返回-1
- * */
 int BinarySearch(int arr[], int length, int target)
 {
     int l = 0, r = length - 1, mid = 0;

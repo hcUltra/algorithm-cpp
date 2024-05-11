@@ -1,3 +1,7 @@
+/*
+ * @description 反转单链表
+ * @author zhc
+ */
 #include <iostream>
 
 using namespace std;

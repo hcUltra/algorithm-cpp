@@ -1,3 +1,7 @@
+/*
+ * @description 划分链表，将值<=x的节点放在左侧，值>x的放在右侧
+ * @author zhc
+ */
 #include <iostream>
 
 using namespace std;

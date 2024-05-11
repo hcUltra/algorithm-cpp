@@ -1,12 +1,11 @@
+/*
+ * @description 在无序数组中，找到山峰,数组中相邻两数不相等可以认为最左侧、最右侧都是无穷小
+ * @author zhc
+ */
 #include <iostream>
 
 using namespace std;
 
-/*
- * 在无序数组中，找到山峰
- * 1. 数组中相邻两数不相等
- * 2. 可以认为最左侧、最右侧都是无穷小
- * */
 int BinarySearchPeak(int arr[], int length)
 {
     if(arr == nullptr || length < 0)

@@ -1,3 +1,7 @@
+/*
+ * @description 求两个链表的和
+ * @author zhc
+ */
 #include <iostream>
 
 using namespace std;

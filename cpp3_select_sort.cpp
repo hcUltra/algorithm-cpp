@@ -1,3 +1,7 @@
+/*
+ * @description 选择排序
+ * @author zhc
+ */
 #include <iostream>
 
 using namespace std;

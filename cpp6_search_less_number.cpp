@@ -1,10 +1,11 @@
+/*
+ * @description 在有序数组中，找到最后一个 <= target 的位置并返回，如果没有满足条件的位置则返回-1
+ * @author zhc
+ */
 #include <iostream>
 
 using namespace std;
 
-/*
- * 在有序数组中，找到最后一个 <= target 的位置并返回，如果没有满足条件的位置则返回-1
- * */
 int BinarySearch(int arr[], int length, int target)
 {
     int l = 0, r = length - 1, mid, ans = -1;

@@ -1,3 +1,7 @@
+/*
+ * @description 归并两条有序链表
+ * @author zhc
+ */
 #include <iostream>
 
 using namespace std;
