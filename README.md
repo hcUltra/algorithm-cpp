@@ -17,3 +17,5 @@
 15.   [循环数组实现队列](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp015_circulate_array_queue/circulate_array_queue.cpp)`队列`
 16.   [静态数组实现栈](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp016_static_array_stack/static_array_stack.cpp)`栈`
 17.   [动态数组实现栈](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp017_dynamic_array_stack/dynamic_array_stack.cpp)`栈`
+18.   [栈实现队列](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp018_stack_impl_queue/stack_impl_queue.cpp)`栈`、`队列`
+19.   [队列实现栈](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp019_queue_impl_stack/queue_impl_stack.cpp)`栈`、`队列`
