@@ -24,7 +24,7 @@ public:
 
     ~Queue()
     {
-        arr = nullptr;
+        delete arr;
     }
 
     // size
