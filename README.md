@@ -24,3 +24,6 @@
 17.   [动态数组实现栈](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp017_dynamic_array_stack/dynamic_array_stack.cpp)`栈`
 18.   [栈实现队列](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp018_stack_impl_queue/stack_impl_queue.cpp)`栈`、`队列`
 19.   [队列实现栈](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp019_queue_impl_stack/queue_impl_stack.cpp)`栈`、`队列`
+20.   [最小栈](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp020_min_stack/min_stack.cpp)`栈`
+21.   [双链表实现双端队列](#)`双端队列`
+22.   [静态数组实现双端队列](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp022_static_array_impl_dequeue/static_array_impl_dequeue.cpp)`双端队列`
