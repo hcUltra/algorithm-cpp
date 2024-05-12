@@ -85,7 +85,7 @@ public:
 
 int main()
 {
-    Queue q = *(new Queue(5));
+    Queue q(5);
     cout << "Is queue empty? " << (q.empty() ? "Yes" : "No") << endl;
     q.push(5);
     q.push(7);
