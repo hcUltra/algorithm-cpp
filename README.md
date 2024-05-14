@@ -37,3 +37,4 @@
 21. [双链表实现双端队列](#)`双端队列`
 22. [静态数组实现双端队列](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp022_static_array_impl_dequeue/static_array_impl_dequeue.cpp)`双端队列`
 23. [二叉树的递归遍历](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp023_binary_tree_traversal_recursion/binary_tree_traversal_recursion.cpp)`二叉树`
+24. [二叉树的非递归遍历](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp024_binary_tree_traversal_iteration/binary_tree_traversal_iteration.cpp)`二叉树`
