@@ -40,3 +40,4 @@
 24. [二叉树的非递归遍历](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp024_binary_tree_traversal_iteration/binary_tree_traversal_iteration.cpp)`二叉树`
 25. [归并排序的递归与非递归实现](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp025_merge_sort/merge_sort.cpp)`排序`、`分治`
 26. [小和问题](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp026_small_sum/small_small.cpp)`分治`、`滑动窗口`
+27. [逆序对](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp027_reverse_pairs/reverse_pairs.cpp)`分治`、`滑动窗口`
