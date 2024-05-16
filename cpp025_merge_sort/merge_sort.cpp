@@ -87,11 +87,23 @@ void merge_sort2(int arr[], int length)
             {
                 r = length - 1;
             }
-            merge(arr,l,m,r);
+            merge(arr, l, m, r);
             // 来到下一个左组，继续merge
             l = r + 1;
         }
     }
+}
+
+void merge_sort3(int arr[], int l, int r)
+{
+    if(l >= r)return;
+    int m = l + ((r - l) >> 1);
+    merge_sort3(arr, l, m), merge_sort3(arr, m + 1, r);
+    int i = l, j = m + 1, k = 0, help[r - l + 1];
+    while(i <= m && j <= r) help[k++] = arr[i] < arr[j] ? arr[i++] : arr[j++];
+    while(i <= m) help[k++] = arr[i++];
+    while(j <= r) help[k++] = arr[j++];
+    for(int x = l; x <= r; ++x) arr[x] = help[x - l];
 }
 
 
@@ -100,7 +112,7 @@ int main()
     int arr[] = {2, 3, 7, 7, 3, 6, 2, 3, 1, 0};
 //    merge_sort1(arr, 0, sizeof(arr)/sizeof(int) - 1);
     merge_sort2(arr, sizeof(arr)/sizeof(int));
-    for(int x : arr)
+    for(int x: arr)
     {
         cout << x << " ";
     }
