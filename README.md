@@ -41,5 +41,5 @@
 25. [归并排序的递归与非递归实现](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp025_merge_sort/merge_sort.cpp)`排序`、`分治`
 26. [小和问题](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp026_small_sum/small_small.cpp)`分治`、`滑动窗口`
 27. [逆序对](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp027_reverse_pairs/reverse_pairs.cpp)`分治`、`滑动窗口`
-27. [快速排序](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp028_quick_sort/quick_sort.cpp)`排序`、`数组`
-28.[数组中第K大元素](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp029_find_kth_largest/find_kth_largest.cpp)`数组`
+28. [快速排序](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp028_quick_sort/quick_sort.cpp)`排序`、`数组`
+29. [数组中第K大元素](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp029_find_kth_largest/find_kth_largest.cpp)`数组`
