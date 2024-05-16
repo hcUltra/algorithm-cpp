@@ -95,7 +95,7 @@ void quick_sort2(int arr[], int l, int r)
     int left = pairs[0];
     int right = pairs[1];
     quick_sort2(arr, l, left - 1), quick_sort2(arr, right + 1, r);
-    delete pairs;
+    delete[] pairs;
 }
 
 int main()
