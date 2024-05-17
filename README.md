@@ -6,7 +6,8 @@
 
 ### 数据结构
 
-> `链表`、`栈`、`队列`、`双端队列`、`二叉树`、`堆`
+> `链表`、`栈`、`队列`、`双端队列`、`优先级队列`、`二叉树`、`堆`
+
 ### 算法
 
 > `排序`、`二分`、`分治`、`数组`
@@ -43,3 +44,4 @@
 28. [快速排序](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp028_quick_sort/quick_sort.cpp)`排序`、`数组`
 29. [数组中第K大元素](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp029_find_kth_largest/find_kth_largest.cpp)`数组`
 30. [堆和堆排序](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp30_heap_sort/heap_sort.cpp)`堆`、`排序`
+31. [合并k个有序链表](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp031_merge_k_lists/merge_k_lists.cpp)`链表`、`优先级队列`
