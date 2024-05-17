@@ -45,3 +45,4 @@
 29. [数组中第K大元素](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp029_find_kth_largest/find_kth_largest.cpp)`数组`
 30. [堆和堆排序](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp30_heap_sort/heap_sort.cpp)`堆`、`排序`
 31. [合并k个有序链表](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp031_merge_k_lists/merge_k_lists.cpp)`链表`、`优先级队列`
+32. [最大线段重合数](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp032_max_cover/max_cover.cpp)`优先级队列`
