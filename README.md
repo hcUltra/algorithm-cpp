@@ -47,3 +47,4 @@
 31. [合并k个有序链表](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp031_merge_k_lists/merge_k_lists.cpp)`链表`、`优先级队列`
 32. [最大线段重合数](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp032_max_cover/max_cover.cpp)`优先级队列`
 33. [将数组和减半的最少操作次数](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp033_halve_array/halve_array.cpp)`贪心`、`优先级队列`、`堆`
+34. [基数排序](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp034_radix_sort/radix_sort.cpp)`排序`
