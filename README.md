@@ -55,3 +55,10 @@
     - [只出现一次的数字](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp035_eor/single_number.cpp)`位运算`
     - [两个数字出现一次](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp035_eor/double_number.cpp)`位运算`
     - [一个数字出现1次，其他数字出现M次](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp035_eor/NNumber.cpp)`位运算`
+36. 位运算
+    - [二的幂](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/power_two.cpp)`位运算`
+    - [三的幂](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/power_three.cpp)`位运算`
+    - [与和](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/range_bitwise_and.cpp)`位运算`
+    - [逆序二进制](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/reverse_bits.cpp)`位运算`
+    - [二进制中1的个数](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/cnts_ones.cpp)`位运算`
+    - [大于等于n的最小2的次方](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/near_power_two.cpp)`位运算`
