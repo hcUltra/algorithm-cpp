@@ -8,8 +8,6 @@
 using namespace std;
 
 // 3 + 5
-// 3
-// 5
 int add(int x, int y)
 {
     // x = 3 -> 0000 0011
@@ -30,8 +28,39 @@ int add(int x, int y)
     return ans;
 }
 
+// -x = ~x + 1
+int subtract(int x, int y)
+{
+    return add(x, add(~y, 1));
+}
+
+int multiply(int x, int y)
+{
+    int ans = 0;
+    // 3 * 5
+    // 0000 0011
+    // 0000 0101
+    // 乘数的当前位为1，收集答案
+    while(y)
+    {
+        if((1 & y) != 0) ans = add(ans, x);
+        x <<= 1;
+        y >>= 1;
+    }
+
+    return ans;
+}
+
+int divide(int x, int y)
+{
+
+}
+
 int main()
 {
-    cout << add(111, 222) << endl;
+    cout << add(222, 111) << endl;
+    cout << subtract(222, 111) << endl;
+    cout << multiply(222, 111) << endl;
+    cout << divide(222, 111) << endl;
     return 0;
 }
