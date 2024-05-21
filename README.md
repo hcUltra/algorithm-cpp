@@ -62,6 +62,7 @@
     - [逆序二进制](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/reverse_bits.cpp)`位运算`
     - [二进制中1的个数](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/cnts_ones.cpp)`位运算`
     - [大于等于n的最小2的次方](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/near_power_two.cpp)`位运算`
+    - [位运算实现加减乘除](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp036_bit_operation/add_subtract_multiply_divide.cpp)`位运算`
 37. 位图
     - [位图实现](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp037_bit_set/bit_set.cpp)`位图`
     - [位图设计](https://github.com/zhc-ultra/algorithm-cpp/blob/main/cpp037_bit_set/bit_set_design.cpp)`位图`
